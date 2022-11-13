@@ -3,4 +3,4 @@
 
 ![Csixxs's GitHub stats](https://github-readme-stats.vercel.app/api?username=csixxs&theme=dark&show_icons=true)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=csixxs1)](https://solved.ac/csixxs1/)
+[![Solved.ac Csixxs](http://mazassumnida.wtf/api/generate_badge?boj=csixxs1)](https://solved.ac/csixxs1)
